@@ -9,8 +9,14 @@ Schematic
 
 Pcb
 
-<img src="https://github.com/Midaah-r/amongus-keychain-hc/blob/main/pcb.png" width=700>
+<img src="https://github.com/Midaah-r/amongus-keychain-hc/blob/main/pcbupdated.png" width=700>
 
-3dView
+# 3dView
 
-<img src="https://github.com/Midaah-r/amongus-keychain-hc/blob/main/3dview.png" width=700>
+front
+
+<img src="https://github.com/Midaah-r/amongus-keychain-hc/blob/main/3dviewfront.png" width=700>
+
+back
+
+<img src="https://github.com/Midaah-r/amongus-keychain-hc/blob/main/3dviewback.png" width=700>
